@@ -1,4 +1,4 @@
-# John-Jacob-Cantil<h1 align="center">Hi 👋, I'm John Jacob Cantil</h1>
+# John Jacob Cantil<h1 align="center">Hi 👋, I'm John Jacob Cantil</h1>
 <h3 align="center">A passionate frontend developer from PH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cantil-jj&label=Profile%20views&color=0e75b6&style=flat" alt="cantil-jj" /> </p>
